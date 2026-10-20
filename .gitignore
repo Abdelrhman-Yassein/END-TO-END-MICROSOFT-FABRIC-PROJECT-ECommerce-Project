@@ -1,0 +1,10 @@
+# Environment and notebook temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+.DS_Store
